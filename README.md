@@ -4,7 +4,10 @@ https://trailhead.salesforce.com/en/superbadges/superbadge_lightning_platform_ap
 
 ![Completed Badge](https://github.com/Londoner1234/App-Customization-Specialist-Super-badge/blob/master/Finished.PNG)
 
-
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 
 What You’ll be Doing to Earn This Superbadge
 Add a record type
